@@ -25,10 +25,10 @@ I am a skilled web and mobile developer with expertise in blockchain technology.
 
 <p>
   <a href="https://github.com/snowman074" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=winter1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=shark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" height="180px"/>
   </a>
   <a href="https://github.com/snowman074" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=snowman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="snowman's GitHub Stats" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=snowman074&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="snowman's GitHub Stats" height="180px"/>
   </a>
 </p>
 
