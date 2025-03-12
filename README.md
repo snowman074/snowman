@@ -6,17 +6,19 @@
 ## 📊 My GitHub Stats (Since 2018)
 
 
-![logo]()
 
 
 
 ## About Me
-I'm a passionate frontend developer and UI/UX designer dedicated to crafting clean and efficient code along with engaging and intuitive designs. With a deep understanding of modern web technologies, design principles, and best practices, I strive to deliver outstanding user experiences.
+I am a skilled web and mobile developer with expertise in blockchain technology. I specialize in building scalable and secure applications, integrating decentralized solutions, and developing smart contracts. With experience in various modern frameworks and tools, I create innovative digital solutions that leverage blockchain for enhanced security, transparency, and efficiency.
 
 ## Skills
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks & Libraries:** ReactJS, Next.js, TailwindCSS, Bootstrap
+- **Languages:** HTML, CSS, JavaScript, TypeScript,PHP
+- **Frameworks & Libraries:** React, Next.js, Vue.js, Angular, React Native, Flutter TailwindCSS, Bootstrap, Material UI, Ant design
+- **Backend:* *Node.js, Express.js, NestJS, Django, FastAPI
+- **Databases: **PostgreSQL, MySQL, MongoDB, Firebase
 - **Design Tools:** Figma, Adobe XD, Canva, Photoshop
+- **Blockchain Development:** Smart Contracts, Solidity, Rust, Web3.js, ethers.js
 - **Tools & Platforms:** Storybook, Git, GitHub, Visual Studio Code
 
 ## My GitHub Stats
