@@ -3,7 +3,7 @@
 ## 🔥 Recent Work (2018 - Present)
 
 
-## 📊 My GitHub Stats (Since 2018)
+
 
 
 
@@ -21,7 +21,7 @@ I am a skilled web and mobile developer with expertise in blockchain technology.
 - **Blockchain Development:** Smart Contracts, Solidity, Rust, Web3.js, ethers.js
 - **Tools & Platforms:** Storybook, Git, GitHub, Visual Studio Code
 
-## My GitHub Stats
+## 📊 My GitHub Stats (Since 2018)
 
 <p>
   <a href="https://github.com/snowman074" >
