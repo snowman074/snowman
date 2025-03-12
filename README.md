@@ -13,7 +13,7 @@
 I am a skilled web and mobile developer with expertise in blockchain technology. I specialize in building scalable and secure applications, integrating decentralized solutions, and developing smart contracts. With experience in various modern frameworks and tools, I create innovative digital solutions that leverage blockchain for enhanced security, transparency, and efficiency.
 
 ## Skills
-- **Languages:** HTML, CSS, JavaScript, TypeScript,PHP
+- **Languages:** Rust, C#, JavaScript, TypeScript,PHP
 - **Frameworks & Libraries:** React, Next.js, Vue.js, Angular, React Native, Flutter TailwindCSS, Bootstrap, Material UI, Ant design
 - **Backend:* *Node.js, Express.js, NestJS, Django, FastAPI
 - **Databases: **PostgreSQL, MySQL, MongoDB, Firebase
