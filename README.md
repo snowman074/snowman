@@ -6,7 +6,7 @@
 ## 📊 My GitHub Stats (Since 2018)
 
 
-![logo](https://github.com/Rashid-Aly/Dev.readme-profile/blob/main/Github%20Banner.png)
+![logo]()
 
 
 
@@ -71,4 +71,3 @@ Below are some of the projects I've worked on. Feel free to check them out:
 ###
 ## Daily Dev Card.
 ###
-<a href="https://app.daily.dev/rashidaliuiux"><img src="https://api.daily.dev/devcards/v2/1qY2ljaXSm5rsIuGuoVwJ.png?type=wide&r=7e0" width="652" alt="Rashid Ali's Dev Card"/></a>
